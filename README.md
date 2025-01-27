@@ -31,10 +31,9 @@
         &nbsp;
         <a href="mailto://marcogoitialazarte@gmail.com"><img width="30px" height="30px" src="icons/gmail.svg" alt="Email"></a>
         &nbsp;
-    
     </div>
 </section>
 
----
+
 
 
