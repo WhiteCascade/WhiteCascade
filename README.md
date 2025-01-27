@@ -14,7 +14,7 @@
 -  Mis metas a futuro son seguir aprendiendo nuevas tecnologías y poder crear ideas innovadoras. 💪
   
 
--  Un dato curioso sobre mí ademas de estudiar disfruto jugar al fútbol⚽ y cantar, ¡me ayuda a relajarme! 🎤​🎵​
+-  Un dato curioso sobre mí ademas de estudiar disfruto jugar al fútbol⚽ y cantar, ¡me ayuda a relajarme! 
   
 
 
