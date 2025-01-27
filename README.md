@@ -8,13 +8,13 @@
   <img align="right" alt="GIF" height="140px" 
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmM4ZHRpcGMzMGEydWZhaGR1NGxnMTYwODN4enJnMzgxdHJ2N3E1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
 
--  Actualmente me enfoco en aprender desarrollo de aplicaciones web utilizando tecnologias como Javascript, React, Vue.js, etc.💻
+-  💻 Actualmente me enfoco en aprender desarrollo de aplicaciones web utilizando tecnologias como Javascript, React, Vue.js, etc.
 
   
--  Mis metas a futuro son seguir aprendiendo nuevas tecnologías y poder crear ideas innovadoras. 💪
+-  💪 Mis metas a futuro son seguir aprendiendo nuevas tecnologías y poder crear ideas innovadoras. 
   
 
--  Un dato curioso sobre mí ademas de estudiar disfruto jugar al fútbol⚽ y cantar, ¡me ayuda a relajarme! 
+- 🕺🏻​ Un dato curioso sobre mí ademas de estudiar disfruto mucho bailar me ayuda a relajarme.
   
 
 
