@@ -26,7 +26,7 @@
 
 ### Contáctame  📝
 <section align="center">
-    <h3>Contact with me on:</h3>
+    <h3>Contacta conmigo en:</h3>
     <div>
         <a href="https://www.linkedin.com/in/marco-gabriel-goitia-lazarte-28313a224/"><img width="30px" height="30px" src="icons/linkedin.svg" alt="LinkedIn"></a>
         &nbsp;
