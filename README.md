@@ -15,6 +15,15 @@
 
  ---
 
+ <div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=WhiteCascade&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/WhiteCascade)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=WhiteCascae&theme=material-palenight)](https://github.com/WhiteCascade)
+</div>
+
+---
+
 ### Contáctame  📝
 <section align="center">
     <h3>Contact with me on:</h3>
@@ -27,3 +36,7 @@
         &nbsp;
     </div>
 </section>
+
+---
+
+
