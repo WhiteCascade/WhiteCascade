@@ -2,15 +2,19 @@
 
 
 ## Soy estudiante de informática.
-
--  Actualmente me enfoco en aprender desarrollo de aplicaciones web utilizando tecnologias como Javascript, React, Vue.js, etc.💻
   <img align="right" alt="GIF" height="140px" 
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmM4ZHRpcGMzMGEydWZhaGR1NGxnMTYwODN4enJnMzgxdHJ2N3E1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
+
+-  Actualmente me enfoco en aprender desarrollo de aplicaciones web utilizando tecnologias como Javascript, React, Vue.js, etc.💻
+
   
 -  Mis metas a futuro son seguir aprendiendo nuevas tecnologías y siempre estar creando ideas innovadoras. 💪
   
 
 -  Un dato curioso sobre mí me encanta el deporte sobre todo el futbol ⚽
+  
+
+
 
  ---
 
