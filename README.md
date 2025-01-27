@@ -16,4 +16,14 @@
  ---
 
 ### Contáctame  📝
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/marco-gabriel-goitia-lazarte-28313a224/)
+<section align="center">
+    <h3>Contact with me on:</h3>
+    <div>
+        <a href="https://www.linkedin.com/in/marco-gabriel-goitia-lazarte-28313a224/"><img width="30px" height="30px" src="icons/linkedin.svg" alt="LinkedIn"></a>
+        &nbsp;
+        <a href="mailto://marcogoitialazarte@gmail.com"><img width="30px" height="30px" src="icons/gmail.svg" alt="Email"></a>
+        &nbsp;
+        <a href="https://www.instagram.com/marco_goitia/"><img width="30px" height="30px" src="icons/x.svg" alt="Instagram"></a>
+        &nbsp;
+    </div>
+</section>
