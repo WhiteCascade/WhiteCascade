@@ -11,7 +11,7 @@
 -  Mis metas a futuro son seguir aprendiendo nuevas tecnologías y siempre estar creando ideas innovadoras. 💪
   
 
--  Un dato curioso sobre mí me encanta el deporte sobre todo el futbol ⚽
+-  Un dato curioso sobre mí ademas de estudiar disfruto jugar al fútbol⚽ y cantar, ¡me ayuda a relajarme y a concentrarme mejor! 🎤​🎵​
   
 
 
