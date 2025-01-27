@@ -10,7 +10,7 @@
 -  Mis metas a futuro son seguir aprendiendo nuevas tecnologías y siempre estar creando ideas innovadoras. 💪
   
 
--  Un dato curioso sobre mí me encanta el deporte sobre todo el futbol ⚽​, ya que de adolecente tuve la oportunidad de continuar jugando pero preferi adentrarme en el mundo de la Informática.​👨‍💻
+-  Un dato curioso sobre mí me encanta el deporte sobre todo el futbol ⚽​, ya que de adolescente tuve la oportunidad de continuar jugando pero preferia adentrarme en el mundo de la Informática.​👨‍💻
   
 
  ---
