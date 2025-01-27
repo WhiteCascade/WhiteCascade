@@ -8,7 +8,7 @@
 -  Actualmente me enfoco en aprender desarrollo de aplicaciones web utilizando tecnologias como Javascript, React, Vue.js, etc.💻
 
   
--  Mis metas a futuro son seguir aprendiendo nuevas tecnologías y siempre estar creando ideas innovadoras. 💪
+-  Mis metas a futuro son seguir aprendiendo nuevas tecnologías y poder crear ideas innovadoras. 💪
   
 
 -  Un dato curioso sobre mí ademas de estudiar disfruto jugar al fútbol⚽ y cantar, ¡me ayuda a relajarme! 🎤​🎵​
