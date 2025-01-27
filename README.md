@@ -1,7 +1,10 @@
-# Hola, Soy Marco <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hola,+a+tod@s!+👋;+Mi+nombre+es+Marco+Goitia!&color=38B2AC" />
+</h1>
 
+---
 
-## Soy estudiante de informática.
+<h3 align="center">Soy estudiante de informática de Desarrollo de Aplicaciones Web</h3>
   <img align="right" alt="GIF" height="140px" 
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmM4ZHRpcGMzMGEydWZhaGR1NGxnMTYwODN4enJnMzgxdHJ2N3E1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
 
